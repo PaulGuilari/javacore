@@ -1,4 +1,4 @@
-/*
+package main.java.com.pavel.javacore.chapter02;/*
 Присвоить классу имя "Example2"
  */
 

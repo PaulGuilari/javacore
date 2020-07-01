@@ -1,3 +1,5 @@
+package main.java.com.pavel.javacore.chapter02;
+
 /*Это простая программа на Java
   Присвоить классу имя "Example"
 */
